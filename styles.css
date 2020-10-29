@@ -36,7 +36,6 @@ body {
 .cards-list
 {
     display: flex;
-
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -46,7 +45,17 @@ body {
     width: 50%;
     height: 100px;
 
+    margin-left: 5vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
     
+}
+
+
+.card-body p
+{
+    font-size: 1.6rem;
+    font-weight: 500;
 }
 /*END INSERTION*/
 
