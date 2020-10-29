@@ -1,5 +1,17 @@
+/*IMPORT*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+/* END IMPORT*/
+
 .ins-ico {
     width: 4vw;
     height: 4vw;
 }
 
+#Insertion h2 
+{
+    color: #d9534f;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
