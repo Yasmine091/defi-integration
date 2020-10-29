@@ -3,9 +3,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 /* END IMPORT*/
 
+.logo-header {
+    margin-left: 100pt;
+    width: 300px;
+    height: auto;
+}
+
 .ins-ico {
     width: 4vw;
     height: 4vw;
+    margin-right: 1%;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif !important;
 }
 
 /* INSERTION*/
