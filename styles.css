@@ -1,0 +1,27 @@
+/*IMPORT*/
+/* END IMPORT*/
+
+.logo-header {
+    width: 325px;
+    height: auto;
+}
+
+.ins-ico {
+    width: 4vw;
+    height: 4vw;
+    margin-right: 1%;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+#Insertion h2 
+{
+    color: #d9534f;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
