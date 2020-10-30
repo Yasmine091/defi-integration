@@ -2,8 +2,8 @@
 
 Défi Intégration starring Yasmine, Florian and Mohammed
 
-Lien du site
+**Lien du site**
 > https://eyeschico.gitlab.io/defi-integration/
 
-Lien de la maquette
+**Lien de la maquette**
 > https://eyeschico.gitlab.io/defi-integration/images/maquette.jpg 
