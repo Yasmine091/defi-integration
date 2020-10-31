@@ -1,0 +1,114 @@
+/*IMPORT*/
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap'); */
+
+@font-face {
+    font-family: Ubuntu-s;
+    src: url(fonts/Ubuntu-Regular.ttf);
+  }
+
+@font-face {
+    font-family: Ubuntu-b;
+    src: url(fonts/Ubuntu-Bold.ttf);
+  }
+/* END IMPORT*/
+
+.logo-header {
+    margin-left: 100pt;
+    width: 300px;
+    height: auto;
+}
+
+.logo-simplon {
+    width: 190px;
+    height: auto;
+}
+
+.ins-ico {
+    width: 4vw;
+    height: 4vw;
+    margin-right: 1%;
+}
+
+body {
+    font-family: Ubuntu-s !important;
+    font-size: 18px !important;
+    color: #000 !important;
+}
+
+h1, h2 {
+    font-family: Ubuntu-b;
+}
+
+h2 
+{
+    margin-left: 16%;
+    margin-right: 16%;
+    font-size: 2.3rem !important;
+    margin-bottom: 35px;
+    font-weight: 800;
+}
+
+b, strong {
+    font-family: Ubuntu-b;
+}
+
+.cards-list
+{
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.card, .card-body {
+    border-radius: 10px !important;
+    line-height: 2rem;
+}
+
+
+.card img
+{
+    width: 50%;
+    height: 100px;
+    margin: auto !important;
+    
+}
+
+.card-header {
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+
+.card-footer {
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+
+.card-body p
+{
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.card-footer a.btn
+{
+    font-family: Ubuntu-b;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    line-height: 1;
+    padding: 1rem;
+    width: 70%;
+}
+
+#Programme ul {
+    list-style: none;
+}
+
+#Programme ul li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #dc3545; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+    font-size: 1.7em;
+  }
+/*END INSERTION*/
