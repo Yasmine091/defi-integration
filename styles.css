@@ -1,6 +1,12 @@
 /*IMPORT*/
 /* @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap'); */
 
+@media {
+    h1 {
+        font-size: 18vw !important;
+    }
+}
+
 @font-face {
     font-family: Ubuntu-s;
     src: url(fonts/Ubuntu-Regular.ttf);
