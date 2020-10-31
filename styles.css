@@ -103,6 +103,7 @@ b, strong {
 }
 
 #Programme ul li::before {
+<<<<<<< HEAD
     content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
     color: #dc3545; /* Change the color */
     font-weight: bold; /* If you want it to be bold */
@@ -111,4 +112,18 @@ b, strong {
     margin-left: -1em; /* Also needed for space (tweak if needed) */
     font-size: 1.7em;
   }
+=======
+    content: "\2022";
+    color: #dc3545;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    font-size: 1.7em;
+  }
+
+#Partenaires {
+    line-height: 1.3;
+}
+>>>>>>> 60d44d0cd7792c4199f6254a87060c9d183b0018
 /*END INSERTION*/
