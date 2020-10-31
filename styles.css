@@ -1,4 +1,11 @@
 /*IMPORT*/
+
+@media (max-width: 480px){
+    h1 {
+        font-size: 18vw !important;
+    }
+}
+
 @font-face {
     font-family: Ubuntu-s;
     src: url(fonts/Ubuntu-Regular.ttf);
@@ -22,8 +29,8 @@
 }
 
 .ins-ico {
-    width: 4vw;
-    height: 4vw;
+    width: 2.7em;
+    height: 2.7em;
     margin-right: 1%;
 }
 
