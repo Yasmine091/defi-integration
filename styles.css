@@ -12,8 +12,8 @@
   }
 /* END IMPORT*/
 
-.logo-header {
-    margin-left: 100pt;
+.logo-header {/* 
+    margin-left: 100vw; */
     width: 300px;
     height: auto;
 }
