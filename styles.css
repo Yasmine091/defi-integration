@@ -1,7 +1,7 @@
 /*IMPORT*/
 /* @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap'); */
 
-@media {
+@media (max-width: 480px){
     h1 {
         font-size: 18vw !important;
     }
