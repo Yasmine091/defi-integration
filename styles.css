@@ -27,8 +27,7 @@
   }
 /* END IMPORT*/
 
-.logo-header {/* 
-    margin-left: 100vw; */
+.logo-header {
     width: 300px;
     height: auto;
 }
@@ -161,12 +160,6 @@ b, strong {
     text-decoration: underline;
 }
 
-/* .info-text a:hover
-{
-    color: #61181f;
-    font-weight: bold;
-} */
-
 .info-img {
     height: 26rem !important;
 }
@@ -184,4 +177,28 @@ b, strong {
 .inf1-content {
     width: 100% !important;
     height: 100% !important;
+}
+
+footer .jumbotron {
+    background-color: #000;
+    color: #fff;
+}
+
+.logo-footer {
+    width: 425px;
+    height: auto;
+}
+
+.footer-icons {
+    width: 40px;
+    height: 40px;
+}
+
+.fni {
+    font-size: 1.1em;
+}
+
+footer {
+    font-family: Ubuntu-s !important;
+    font-weight: lighter !important;
 }
