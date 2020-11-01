@@ -13,6 +13,16 @@
     .inf1-content {
         font-size: 4vw;
     }
+    .logo-footer {
+        width: 400px !important;
+        height: auto;
+    }
+    .cntr {
+        text-align: center !important;
+    }
+    footer .sep {
+        display: none;
+    }
 }
 
 /*IMPORT*/
@@ -199,6 +209,6 @@ footer .jumbotron {
 }
 
 footer {
-    font-family: Ubuntu-s !important;
+    font-family: Ubuntu-b !important;
     font-weight: lighter !important;
 }
