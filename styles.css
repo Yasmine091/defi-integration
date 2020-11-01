@@ -9,6 +9,10 @@
         margin: 0 !important;
         padding: 0 !important;
     }
+
+    .inf1-content {
+        font-size: 4vw;
+    }
 }
 
 /*IMPORT*/
@@ -135,7 +139,7 @@ b, strong {
 
 #Informations-2 .container-fluid
 {
-    background-color: #e2e5e7;
+    background-color: #ddd;
 }
 
 .info-content {
@@ -171,4 +175,13 @@ b, strong {
     width: 100% !important;
     object-fit: cover;
     height: inherit !important;
+}
+
+#Contact {
+    background: linear-gradient(to top, #f8f9fa 0%, #f8f9fa 80%, transparent 80%, transparent 100%) !important;
+}
+
+.inf1-content {
+    width: 100% !important;
+    height: 100% !important;
 }
