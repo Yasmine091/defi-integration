@@ -127,3 +127,45 @@ b, strong {
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
+
+#Informations-2
+{
+    background-color: #e2e5e7;
+    height: 479px;
+}
+
+.info-content
+{
+    display: flex;
+
+}
+
+.info-text
+{
+    margin: 8rem;
+}
+
+.info-text h2
+{
+    color: #dc3545;
+}
+
+.info-text a
+{
+    color: #dc3545;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.info-text a:hover
+{
+    color: #61181f;
+    font-weight: bold;
+}
+.info-img
+{
+
+}
+
+
+
