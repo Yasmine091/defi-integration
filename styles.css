@@ -4,6 +4,11 @@
     h1 {
         font-size: 18vw !important;
     }
+
+    .info-content {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
 }
 
 /*IMPORT*/
@@ -128,44 +133,42 @@ b, strong {
     margin-bottom: 3rem;
 }
 
-#Informations-2
+#Informations-2 .container-fluid
 {
     background-color: #e2e5e7;
-    height: 479px;
 }
 
-.info-content
-{
-    display: flex;
-
+.info-content {
+    line-height: 1.3;
+    margin-left: 3rem;
+    margin-right: 3rem;
 }
 
-.info-text
+#Informations-2 h2
 {
-    margin: 8rem;
-}
-
-.info-text h2
-{
+    text-align: left !important;
     color: #dc3545;
 }
 
-.info-text a
+#Informations-2 a
 {
-    color: #dc3545;
-    font-weight: bold;
+    font-family: Ubuntu-b;
+    font-weight: bolder;
     text-decoration: underline;
 }
 
-.info-text a:hover
+/* .info-text a:hover
 {
     color: #61181f;
     font-weight: bold;
+} */
+
+.info-img {
+    height: 26rem !important;
 }
-.info-img
-{
 
+.acces-img {
+    width: 100% !important;
+    object-fit: cover;
+    height: inherit !important;
 }
-
-
-
